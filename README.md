@@ -49,3 +49,5 @@ Make sure **Python 3.9 or above** is installed.
 pip install pandas matplotlib streamlit
 python ethics_check.py
 streamlit run dashboard.py
+```
+
